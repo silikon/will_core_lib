@@ -1,6 +1,6 @@
 <?php
 require_once('simpletest/autorun.php');
-require_once('classes/will_account.php');
+require_once('classes/will_core_account.php');
 
 class TestWillCoreAccount extends UnitTestCase {	
     function testAddAdmin() {
